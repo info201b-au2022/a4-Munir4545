@@ -150,7 +150,7 @@ get_basic_info <- function(df) {
 # Comment or uncomment 
 #----------------------------------------------------------------------------#
 # ## Very important: You must initialize `incarceration_df`
-# incarceration_df <- get_data()
+incarceration_df <- get_data()
 # 
 # ## Demonstrate use of the functions
 # ## Each of these functions returns a vector of states
